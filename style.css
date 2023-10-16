@@ -1,0 +1,48 @@
+.div1{
+    width: 350px;
+    height: 160px;
+    margin-top: 15px;
+   color: #777;
+   text-transform: capitalize;
+   font-size: 16px;
+   font-weight: 400;
+   text-align: center;
+}
+
+.lorem {
+    margin: 0%;
+    width: 350px;
+    
+}
+.also {
+    text-align: center;
+    margin: 0%;
+
+    
+}
+
+.ipsum {
+    text-align: center;
+    margin-top: 30px;
+    color: #001AFF;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.loremipsum {
+  color: #F00;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+
+}
+
+.div2 {
+    width: 350px;
+    height: 160px;
+    margin-left: 72px;
+    margin-top: 30px;
+    text-align: justify;
+   
+}
